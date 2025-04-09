@@ -1,0 +1,39 @@
+genkiPlus アプリ 利用許諾条件
+
+このアプリ（genkiPlus）は、自治体・福祉施設などの利用を想定して無償で配布されています。
+
+【許可されること】
+- アプリをそのまま使用すること
+- 非営利目的での配布先への紹介・利用支援
+
+【禁止事項】
+- アプリの内容の一部または全部を無断で改変すること
+- アプリの再配布（APKファイルのコピー等）
+- 商用利用（営利目的での利用、販売、広告付き配布など）
+
+【免責事項】
+本アプリの利用により生じた如何なる損害についても、製作者は一切の責任を負いません。
+
+著作権 © 2025 MAYUMI WATANABE  
+All rights reserved.
+
+---
+
+License Agreement for the genkiPlus App
+
+This app (genkiPlus) is distributed free of charge, intended for use by local governments and welfare organizations.
+
+【Permitted Uses】
+- Use of the app as-is
+- Introduction and support for non-commercial use
+
+【Prohibited Actions】
+- Modifying any part of the app without permission
+- Redistributing the app (e.g., sharing APK files)
+- Commercial use (including resale, use with ads, or paid services)
+
+【Disclaimer】
+The developer assumes no responsibility for any damages arising from the use of this app.
+
+Copyright © 2025 MAYUMI WATANABE  
+All rights reserved.
