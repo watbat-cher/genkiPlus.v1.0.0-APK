@@ -15,7 +15,7 @@
 ## 🛠 インストール方法
 
 1. 下記リンクからAPKファイルをダウンロードします（スマホでQRコードからもOK）  
-   **[APKダウンロードリンク](https://github.com/watbat-cher/genkiPlus/releases)**
+   **[APKダウンロードリンク](https://github.com/watbat-cher/genkiPlus.v1.0.0-APK/releases/download/v1.0.0/app-release.apk)**
 
 2. ダウンロードしたAPKをタップしてインストールします  
    ※提供元不明のアプリのインストールを許可してください（初回のみ）
